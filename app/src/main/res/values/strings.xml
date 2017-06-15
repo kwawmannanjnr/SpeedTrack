@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SpeedTrack</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-1003841027934008/4704935775</string>
+    <string name="interstitial_full_screen">ca-app-pub-1003841027934008/6181668972</string>
 </resources>

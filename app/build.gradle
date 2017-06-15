@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.1"
+    buildToolsVersion "25.0.2"
     defaultConfig {
         applicationId "com.example.kwawannan.speedtrack"
         minSdkVersion 14
@@ -28,6 +28,7 @@ dependencies {
     compile 'com.github.anastr:speedviewlib:1.1.0'
     compile 'com.google.firebase:firebase-ads:10.2.6'
     compile 'com.github.hotchemi:android-rate:1.0.1'
+    compile 'com.google.android.gms:play-services-ads:8.4.0'
 
     testCompile 'junit:junit:4.12'
 
